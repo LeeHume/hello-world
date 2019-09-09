@@ -1,3 +1,3 @@
 # hello-world
 My new repository
-So now I'm trying something out...
+This is the master piece
