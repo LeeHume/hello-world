@@ -1,3 +1,3 @@
 # hello-world
 My new repository
-This is now a TOTALLY DIFFERENT update
+So now I'm trying something out...
